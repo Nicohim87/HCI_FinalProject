@@ -19,10 +19,6 @@
 
         <div class="center" id="center-element">
             <b>
-                <div class="button" type="button" onclick="window.location.href = 'https://translate.google.co.id/?sl=en&tl=id&text=Regular%20Class&op=translate';">
-                    <p>Regular Class</p>
-                </div>
-
                 <div class="button" type="button" onclick="window.location.href = 'https://translate.google.co.id/?sl=en&tl=id&text=Creative%20Class&op=translate';">
                     <p>Creative Class</p>
                 </div>
