@@ -19,16 +19,23 @@
 
         <div class="center" id="center-element">
             <b>
-                <div class="button" type="button" onclick="window.location.href = 'https://translate.google.co.id/?sl=en&tl=id&text=Creative%20Class&op=translate';">
+                <div class="button" type="button" onclick="openCreativeClass()">
                     <p>Creative Class</p>
                 </div>
 
-                <div class="button" type="button" onclick="window.location.href = 'https://translate.google.co.id/?sl=en&tl=id&text=Smart%20Class&op=translate';">
+                <div class="button" type="button" onclick="openSmartClass()">
                     <p>Smart Class</p>
                 </div>
             </b>
         </div>
     </div>
+    <script>
+        function openCreativeClass(){
+            window.open("https://editor.assemblrworld.com/Viewer/-wWz5Ylo47H58QRTCtU6?mode=marker", "_blank")
+        }
+        function openSmartClass(){
+            window.open("https://editor.assemblrworld.com/Viewer/-zqZA7ferktxlrg7FfZG?mode=marker", "_blank")
+        }
+    </script>
 </body>
-
 </html>
