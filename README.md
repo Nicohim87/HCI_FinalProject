@@ -1,3 +1,3 @@
 # HCI_FinalProject
 
-Live Website : https://augmentedrealityroomtour.000webhostapp.com/
+Live Website : https://potato-ar.netlify.app/
